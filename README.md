@@ -23,4 +23,3 @@ with your base URL above.
 
 Note: a GitHub Pages site is public. These are product photos, so that's fine —
 just don't add anything to this repo you wouldn't want indexed.
-# whatnot-images
